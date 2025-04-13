@@ -1,0 +1,4 @@
+000~ROOT~000
+proc
+proc/self
+proc/self/cwd
